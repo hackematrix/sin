@@ -1,0 +1,20 @@
+//In the first time,i draw a sin(x) image by use python
+
+//library
+import matplotlib.pyplot as plt
+import numpy as np
+
+//define x and y
+x=np.linspace(1,100,10)
+y=np.sin(x)
+
+//basical imformation
+plt.xlable('X')
+plt.ylabe('y')
+plt.title('sin(x) image')
+
+//draw it
+plt.plot(x,y,linewidth=1)
+plt.show
+
+
