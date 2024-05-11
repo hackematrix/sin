@@ -1,4 +1,4 @@
-//In the first time,i draw a sin(x) image by use python
+//In the first time,i draw a sin(x) image by using python
 
 //library
 import matplotlib.pyplot as plt
